@@ -16,5 +16,5 @@ cd NetscannerPy
 
 chmod u+x Main.py
 
-./Main.py -t 192.168.0.1/24 **(ip range )**
+sudo ./Main.py -t 192.168.0.1/24 **(ip range )**
 ```
