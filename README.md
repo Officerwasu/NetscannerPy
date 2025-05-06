@@ -1,5 +1,5 @@
 # NetscannerPy
-Python netwrok scanner using scapy 
+Python network scanner using scapy 
 
 ## Requirements
 * **Root Privileges:** Running this program requires root privileges because sending raw network packets is involved
