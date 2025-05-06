@@ -2,11 +2,10 @@
 Python netwrok scanner using scapy
 
 ## Requirements
-scapy
-argparse
-sudo 
+* **Root Privileges:** Running this program requires root privileges because sending raw network packets is involved
+* **scapy** Install it with pip install scapy
+* **argparse** Used to pass arguments install it with pip install argparse
 
-takes argument -t or --target for target ip
 
 ## Usage
  ```bash
