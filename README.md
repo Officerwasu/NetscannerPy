@@ -4,7 +4,7 @@ Python network scanner using scapy
 ## Requirements
 * **Root Privileges:** Running this program requires root privileges because sending raw network packets is involved
 * **scapy** Install it with pip install scapy
-* **argparse** Used to pass arguments install it with pip install argparse
+* **argparse** Used to pass arguments install it with pip install argparse 
 
 
 ## Usage
